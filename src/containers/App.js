@@ -38,11 +38,11 @@ class App extends React.Component {
             return (
                 <div className="tc">
                     <h1 className= "f1">AvaFriends</h1>
+                    <p>Developed by Yushau | April, 2022</p>
                     <SearchBox searchChange={this.onSearchChange}/>
                     <Scroll>
                         <CardList robots={filteredRobots}/>
                     </Scroll>
-                    <p>Developed by Yushau | April, 2022</p>
                 </div>
             )
         }
