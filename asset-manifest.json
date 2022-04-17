@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avafriends/static/css/main.0d84f03e.css",
+    "main.js": "/avafriends/static/js/main.c9c88463.js",
+    "static/js/787.524eaf2f.chunk.js": "/avafriends/static/js/787.524eaf2f.chunk.js",
+    "static/media/SEGA.woff": "/avafriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/avafriends/index.html",
+    "main.0d84f03e.css.map": "/avafriends/static/css/main.0d84f03e.css.map",
+    "main.c9c88463.js.map": "/avafriends/static/js/main.c9c88463.js.map",
+    "787.524eaf2f.chunk.js.map": "/avafriends/static/js/787.524eaf2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d84f03e.css",
+    "static/js/main.c9c88463.js"
+  ]
+}
