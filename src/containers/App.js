@@ -42,6 +42,7 @@ class App extends React.Component {
                     <Scroll>
                         <CardList robots={filteredRobots}/>
                     </Scroll>
+                    <p>Developed by Yushau | April, 2022</p>
                 </div>
             )
         }
